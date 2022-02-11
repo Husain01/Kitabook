@@ -1,0 +1,18 @@
+:root{
+    --primary-color:#4F2F05;
+    --bg-color:#F2DCB1;
+    --normal-inset-shadow: inset 5px 5px 10px #cebb96, inset -5px -5px 10px #fffdcc;
+    --secondary-color:#9C7038;
+    --active-color:#9C7038;
+    --primary-inset-shadow: inset 5px 5px 10px #372104, inset -5px -5px 10px #673d07;
+}
+
+.normal-shadow {
+    box-shadow: 5px 5px 10px #cebb96, -5px -5px 10px #fffdcc;
+  }
+
+
+
+.navbar{
+    padding: 2rem;
+}
