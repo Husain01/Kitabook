@@ -1,3 +1,5 @@
+@import url("https://neu-ui-cl.netlify.app/css/components.css");
+
 :root{
     --primary-color:#4F2F05;
     --bg-color:#F2DCB1;
@@ -7,6 +9,8 @@
     --primary-inset-shadow: inset 5px 5px 10px #372104, inset -5px -5px 10px #673d07;
 }
 
+
+
 .normal-shadow {
     box-shadow: 5px 5px 10px #cebb96, -5px -5px 10px #fffdcc;
   }
@@ -14,5 +18,7 @@
 
 
 .navbar{
+    position: sticky;
+    top: 0;
     padding: 2rem;
 }
