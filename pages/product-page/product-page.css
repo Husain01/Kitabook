@@ -125,6 +125,13 @@
     padding: 2rem;
 }
 
+.product-cards{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    grid-gap: 2rem;
+    width: 100%;
+}
+
 
 .card{
     width: 18rem;
@@ -140,12 +147,6 @@
     object-fit: contain;
 }
 
-.product-cards{
-    display: grid;
-    grid-template-columns: repeat(3 ,1fr);
-    grid-gap: 2rem;
-    width: 100%;
-}
 
 /* Changes */
 
