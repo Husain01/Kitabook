@@ -112,13 +112,7 @@
 
 /* Main Content  */
 
-.main-content{
-    padding: 1rem;
-    border-radius: 10px;
-    box-shadow: var(--normal-inset-shadow);
-    display: flex;
-    flex-wrap: wrap;
-}
+
 
 .products-header{
     display: flex;

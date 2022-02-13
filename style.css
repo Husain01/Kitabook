@@ -24,3 +24,11 @@
     background-color: var(--bg-color);
     z-index: 2;
 }
+
+.main-content{
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: var(--normal-inset-shadow);
+    display: flex;
+    flex-wrap: wrap;
+}
