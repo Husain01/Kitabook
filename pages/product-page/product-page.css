@@ -109,3 +109,28 @@
 .radiomark:checked:after{
     display: inline-block;
 }
+
+/* Main Content  */
+
+
+
+.products-header{
+    display: flex;
+    align-items: center;
+    column-gap: 1rem;
+}
+
+.product-listing{
+    width: 100%;
+    padding: 2rem;
+}
+
+
+
+
+/* Changes */
+
+
+.product-content{
+    margin-bottom: 0;
+}
