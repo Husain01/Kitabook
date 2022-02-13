@@ -32,3 +32,26 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+/* Cards  */
+.product-cards{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    grid-gap: 2rem;
+    width: 100%;
+}
+
+
+.card{
+    width: 18rem;
+    margin: 0;
+}
+
+.product-img{
+    width: 100%;
+    height: 18rem;
+}
+
+.product-img img {
+    object-fit: contain;
+}
