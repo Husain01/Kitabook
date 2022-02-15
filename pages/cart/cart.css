@@ -58,3 +58,11 @@
     font-size: 2rem;
     padding: 0;
 }
+
+.btn-footer{
+    gap: 1rem;
+}
+
+.cart-hr{
+    width: max-content;
+}
