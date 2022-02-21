@@ -1,6 +1,6 @@
 <h1 align="center">
 <br />
-<a href="https://vispaui-docs-development.netlify.app/"><img src="https://raw.githubusercontent.com/Husain01/Kitabook/Dev/assets/KITABOOK.png" alt="Neu UI" width="300"></a>
+<a href="https://kitabook.netlify.app/"><img src="https://raw.githubusercontent.com/Husain01/Kitabook/Dev/assets/KITABOOK.png" alt="Neu UI" width="300"></a>
 
 <br/>
 </h1>
